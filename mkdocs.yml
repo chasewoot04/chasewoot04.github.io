@@ -1,1 +1,4 @@
-site_name: My Docs
+site_name: Sountracks Build Story
+site_url: https://chasewoot04.github.io
+theme:
+  name: material
