@@ -18,9 +18,11 @@ The original soundtrack featured 70 songs. Since then, the following have been a
 
 Each of the 100 songs currently featured in Stardew Valley features a set of specific conditions in which the song can be triggered. For example, "Summit Celebration" can only be heard when entering the finale cutscene of the game. Other songs can be heard multiple places, times, or even on command using a Mini-Jukebox.
 
-When and why a song is triggered is an important aspect of the Stardew Valley's atmosphere. Atmosphere, in video games, is defined as the emotional, sensory "feeling" that is evoked through visuals, audio, storytelling, and gameplay mechanics.
+When and why a song is triggered is an important aspect of the Stardew Valley's atmosphere. Atmosphere is defined as the sensory "feeling" that is evoked through visuals, audio, storytelling, and gameplay mechanics.
 
 ### Sounds of the Season
+
+There are twelve total seasonal tracks, three for each of the four seasons. At the beginning of each day, a single track is selected to play, and it will not loop once it has concluded. However, if no music is playing, the song will begin again upon entering any seasonal-track area.
 
 ### Character Themes
 
