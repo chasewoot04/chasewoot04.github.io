@@ -11,7 +11,7 @@ The original soundtrack featured 70 songs. Since then, the following have been a
 - Fourteen songs from v1.4 in November 2019
 - Nine songs from v1.5 in December 2020
 
-!!! music-box-outline " "
+!!! info " "
     For a full list of tracks included in the game, visit [the Stardew Valley Wiki](https://stardewvalleywiki.com/Soundtrack#Tracks_List).
 
 ## Triggering the Tunes
@@ -49,7 +49,7 @@ Of the 45 characters in Stardew Valley, 14 have songs named after them.
 
 Sometimes, silence itself can be more impactful than any music. Certain locations are always silent, while others are silent only other certain conditions. 
 
-!!! info inlinend "The following locations are always silent"
+!!! info inline end "The following locations are always silent"
 
     - Basement Room of the Wizard
     - Beach
