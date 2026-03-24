@@ -45,8 +45,27 @@ Of the 45 characters in Stardew Valley, 14 have songs named after them.
 | Emily | Song of Feathers |
 | Leo | Leo's Song |
 
-### Location, Location
-
-
 ### The Sound of Silence
 
+Sometimes, silence itself can be more impactful than any music. Certain locations are always silent, while others are silent only other certain conditions. 
+
+!!! info inlinend "The following locations are always silent"
+
+    - Basement Room of the Wizard
+    - Beach
+    - Blacksmith
+    - Casino
+    - Elliott's Cabin
+    - Fish Shop and its back room
+    - Jungle
+    - JojaMart
+    - Mutant Bug Lair
+    - Pirate Cove (when empty)
+    - Qi's Walnut Room
+    - Quarry Mine
+    - Sewers
+    - Skull Cavern entrance
+    - Spa
+    - Tunnel
+    - Witch's Hut
+    - Witch's Swamp.
