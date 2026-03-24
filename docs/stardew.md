@@ -1,4 +1,4 @@
-# Music of the Valley: How the Soundtrack of Stardew Valley Impacts Atmosphere
+# Stardew Valley
 
 ## About the Music
 
@@ -26,6 +26,27 @@ There are twelve total seasonal tracks, three for each of the four seasons. At t
 
 ### Character Themes
 
+Of the 45 characters in Stardew Valley, 14 have songs named after them.
+
+| Character | Song Title |
+| ----- | ----- |
+| Grandpa | Grandpa's Theme |
+| Wizard | A Glimpse of the Other World |
+| Penny | Pleasant Memory |
+| Elliott | Piano Solo |
+| Leah | Land of Green and Gold |
+| Abigail | A Stillness in the Rain |
+| Maru | Starwatcher |
+| Alex | A Sad Song |
+| Haley | Pickle Jar Rag |
+| Sebastian | Echos |
+| Dr. Harvey | Grapefruit Sky |
+| Shane | Frozen Pizza and Eggs |
+| Emily | Song of Feathers |
+| Leo | Leo's Song |
+
 ### Location, Location
 
+
 ### The Sound of Silence
+
