@@ -35,7 +35,7 @@ And yet, even as beloved as the music of the movie is, there's a lot of cultural
 
 Many of the underlying themes in the soundtrack require some familiarity with Korean culture to catch. If KPOP DEMON HUNTERS was your introduction to Korean media, understanding the cultural context behind the songs will help you understand their full meaning in the story!
 
-For instance, "Love, Maybe," which plays when HUNTR/X first see the Saja Boys, is from the popular Korean drama *Business Proposal*, which brings immediate cultural context to the scene. When Jinu (demon leader and center of the Saja Boys) bumps Rumi's shoulder, sending her falling in slow motion toward the ground, audience members who know the song are left on tenterhooks, waiting for him to sweep in and save her like a Kdrama heartthrob.
+For instance, take protagonist and center of HUNTR/X, Rumi, and her eventual love interest Jinu, sympathetic antagonist and center of the Saja Boys. "Love, Maybe," which plays when HUNTR/X first see the Saja Boys, is from the popular Korean drama *Business Proposal*, which brings immediate context to the scene. When Jinu (demon leader and center of the Saja Boys) bumps Rumi's shoulder, sending her falling in slow motion toward the ground, audience members who know the song are left on tenterhooks, waiting for him to sweep in and save her like a Kdrama heartthrob.
 
 Another song that holds extra meaning when 
 Your Idol and irl idol industry 
