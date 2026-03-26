@@ -1,4 +1,4 @@
-<h1>KPOP DEMON HUNTERS Soundtrack</h1>
+# KPOP DEMON HUNTERS Soundtrack
 
 ## Cultural Context and References in Music
 
@@ -6,7 +6,7 @@ by Alexander M.
 
 ![KPOP DEMON HUNTERS](https://www.republicrecords.com/cdn/shop/files/REPU-00092_KPOP_DemonHunters_CollectionPage-Banner-02Mobile.png?v=1751556728&width=900)
 
-## Music - A Universal Language?
+### Music - A Universal Language?
 
 Is music a universal language? With the landmark success of Netflix's most-streamed movie ever, KPOP DEMON HUNTERS, it might certainly seem so.
 
@@ -35,21 +35,25 @@ And yet, even as beloved as the music of the movie is, there's a lot of cultural
 
 Many of the underlying themes in the soundtrack require some familiarity with Korean culture to catch. If KPOP DEMON HUNTERS was your introduction to Korean media, understanding the cultural context behind the songs will help you understand their full meaning in the story!
 
-For instance, take protagonist and center of HUNTR/X, Rumi, and her eventual love interest Jinu, sympathetic antagonist and center of the Saja Boys. "Love, Maybe," which plays when HUNTR/X first see the Saja Boys, is from the popular Korean drama *Business Proposal*, which brings immediate context to the scene. When Jinu (demon leader and center of the Saja Boys) bumps Rumi's shoulder, sending her falling in slow motion toward the ground, audience members who know the song are left on tenterhooks, waiting for him to sweep in and save her like a Kdrama heartthrob.
+## The Sound of K-Dramas
 
-Another song that holds extra meaning when 
-Your Idol and irl idol industry 
+For instance, take protagonist Rumi, the leader and center of HUNTR/X and her eventual love interest and sympathetic antagonist Jinu, leader and center of the Saja Boys.
 
-Change of Dies Irae vs Hunter's Mantra backward in Your Idol - Korean grim reaper
+!!! note "KPop Terminology
+    The "leader" of a KPop group is in charge of supervising other members and communicating with management, as well as representing the group during public activities like award festivals.
+    The "center" of a KPop group is the member who's most often highlighted in songs and promotional material. This position often changes with time, even when group members remain the same.
 
-Why Golden never finishes
+"Love, Maybe," which plays when HUNTR/X first see the Saja Boys, is from the popular Korean drama *Business Proposal*, which brings immediate emotional context to the scene. When Jinu bumps Rumi's shoulder, sending her falling in slow motion toward the ground, audience members familiar with K-Dramas are left on tenterhooks, waiting for him to sweep in and save her like a total heartthrob. Thus, when Jinu instead lets her crash to the ground with a parting insult, the audience's negative impression of him is amplified.
 
-Nothing good ever happens during Takedown
+## Idol-Fan Relationships
 
-Leitmotifs
+KPop has a massive amount surrounding cultural context, and nowhere is this more crucial to understanding the story than for the song Your Idol, by the Saja Boys. The lyrics are a clear double entendre, speaking about absorbing fans' love and energy; the Saja Boys are demons attempting to steal their fans' souls, and it might seem odd to some audience members that they're not attempting to hide that. But, for KPop fans, Your Idol doesn't appear to be about demons at all. Instead, it comes off as a poignant commentary on the idol industry and negative fan-idol relationships.
 
-Korean lyrics/cultural meaning - having Korean lyrics in hook of Golden
+Songwriter EJAE, also the singing voice of Rumi and composer of many of the movie's songs, explained in an interview that Your Idol was largely inspired by her own experience as a KPop trainee. Despite trainees having not debuted, fans would wait outside their training building until late at night. Some interacted with the trainees positively, requesting autographs, while others verbally insulted and abused the trainees for (REVIEW ANECDOTE). KPop fans are famously devoted to their favourite groups and their bias, but this can lead to dependency and parasocial relationships, as well as hostility between fans or between fans and outsiders.
 
-Purpose of each song narratively
+!!! note "KPop Terminology
+    A fan's "bias" refers to their favourite member of a group, and some fans are strictly loyal only to that single member.
 
-Double and triple lyric meanings
+## Korean Lyrics
+
+The most obvious 'hidden' information in the songs are the Korean lyrics. Korean lyrics/cultural meaning - having Korean lyrics in hook of Golden
