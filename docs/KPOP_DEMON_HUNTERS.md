@@ -1,8 +1,8 @@
-<h1>KPOP DEMON HUNTERS SOUNDTRACK</h1>
-
-by Alexander M.
+<h1>KPOP DEMON HUNTERS Soundtrack</h1>
 
 ## Cultural Context and References in Music
+
+by Alexander M.
 
 ![KPOP DEMON HUNTERS](https://www.republicrecords.com/cdn/shop/files/REPU-00092_KPOP_DemonHunters_CollectionPage-Banner-02Mobile.png?v=1751556728&width=900)
 
