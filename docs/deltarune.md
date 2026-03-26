@@ -2,7 +2,7 @@
 
 ## Observing Leitmotifs and Developing Themes
 
-![Deltarune Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa_DR4wTuXoQNg0l8irjC8GoY7p0-qHtRmrA&s)
+![Deltarune Chapters 3&4 Logo](https://f4.bcbits.com/img/a3386961379_16.jpg)
 
 ## Toby Fox, Deltarune, and Leitmotifs
 
