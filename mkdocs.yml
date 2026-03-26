@@ -2,6 +2,15 @@ site_name: Sountracks Build Story
 site_url: https://chasewoot04.github.io
 theme:
   name: material
+<<<<<<< HEAD
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+=======
+  features:
+    - content.footnote.tooltips
 markdown_extensions:
   - admonition
   - pymdownx.details
@@ -13,3 +22,7 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+<<<<<<< HEAD
+=======
+   
+>>>>>>> b9e8ff8c89af3869ae5fea5142abd2b101845d2a
