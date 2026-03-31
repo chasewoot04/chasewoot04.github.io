@@ -55,14 +55,6 @@ Character themes (sometimes labeled as melodies in the official soundtrack) are 
 
 ### The Sound of Silence
 
-Sometimes, silence itself can be more impactful than any music. Certain locations are always silent, while others are silent only other certain conditions.
-
-The Railroad is silent except during Winter.
-Outside areas and most stores are silent during Rain.png Rain and Thunderstorm.png Storm days.
-If a non-seasonal-track is playing, and the player enters a seasonal-track area (Town apart), there will be silence (e.g., entering the Forest from Town when the Town theme is playing, exiting the Adventurer's Guild, the Secret Woods, the Wizard's Tower...). Exiting Treehouse makes exception to the rule: the track playing before the entering plays.
-
-![No Sound Allowed](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPdn_vh4xsaA0A3CGsiwYNQu6bNn_bQUIZug&s)
-
 !!! info inline end "The following locations are always silent"
 
     - Basement Room of the Wizard
@@ -83,3 +75,11 @@ If a non-seasonal-track is playing, and the player enters a seasonal-track area 
     - Tunnel
     - Witch's Hut
     - Witch's Swamp.
+
+Sometimes, silence itself can be more impactful than any music. Certain locations are always silent, while others are silent only other certain conditions.
+
+The Railroad is silent except during Winter.
+Outside areas and most stores are silent during Rain.png Rain and Thunderstorm.png Storm days.
+If a non-seasonal-track is playing, and the player enters a seasonal-track area (Town apart), there will be silence (e.g., entering the Forest from Town when the Town theme is playing, exiting the Adventurer's Guild, the Secret Woods, the Wizard's Tower...). Exiting Treehouse makes exception to the rule: the track playing before the entering plays.
+
+![No Sound Allowed](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPdn_vh4xsaA0A3CGsiwYNQu6bNn_bQUIZug&s)
