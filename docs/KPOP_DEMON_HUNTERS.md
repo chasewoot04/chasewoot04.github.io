@@ -35,7 +35,7 @@ And yet, even as beloved as the music of the movie is, there's a lot of cultural
 
 Many of the underlying themes in the soundtrack require some familiarity with Korean culture to catch. If KPOP DEMON HUNTERS was your introduction to Korean media, understanding the cultural context behind the songs will help you understand their full meaning in the story!
 
-## The Sound of K-Dramas
+### The Sound of K-Dramas
 
 For instance, take protagonist Rumi, the leader and center of HUNTR/X and her eventual love interest and sympathetic antagonist Jinu, leader and center of the Saja Boys.
 
@@ -45,16 +45,16 @@ For instance, take protagonist Rumi, the leader and center of HUNTR/X and her ev
 
 "Love, Maybe," which plays when HUNTR/X first see the Saja Boys, is from the popular Korean drama *Business Proposal*, which brings immediate emotional context to the scene. When Jinu bumps Rumi's shoulder, sending her falling in slow motion toward the ground, audience members familiar with K-Dramas are left on tenterhooks, waiting for him to sweep in and save her like a total heartthrob. Thus, when Jinu instead lets her crash to the ground with a parting insult, the audience's negative impression of him is amplified.
 
-## Idol-Fan Relationships
+### Idol-Fan Relationships
 
-KPop has a massive amount of surrounding cultural context, and nowhere is this more crucial to understanding the story than for the song Your Idol, by the Saja Boys. The lyrics are a clear double entendre, speaking about absorbing fans' love and energy; the Saja Boys are demons attempting to steal their fans' souls, and it might seem odd to some audience members that they're not attempting to hide that. But, for KPop fans, Your Idol doesn't appear to be about demons at all. Instead, it comes off as a poignant commentary on the idol industry and negative fan-idol relationships.
+KPop has a massive amount of surrounding cultural context, and nowhere is this more crucial to understanding the story than for the song Your Idol, by the Saja Boys. The lyrics are a clear double entendre, speaking about absorbing fans' love and energy; the Saja Boys are demons attempting to steal their fans' souls, and it might seem odd to some audience members that they're not attempting to hide that. But, for KPop fans, Your Idol doesn't appear to be about demons at all. Instead, it comes off as a poignant commentary on the idol industry and negative idol-fan relationships.
 
 KPop fans are famously devoted to their favourite groups and their bias, but this can lead to dependency and parasocial relationships, as well as hostility between fans or between fans and outsiders.
 
 !!! note "KPop Terminology"
     A fan's "bias" refers to their favourite member of a group, and some fans are strictly loyal only to that single member.
 
-Songwriter EJAE, also the singing voice of Rumi and composer of many of the movie's songs, [explained in an interview](https://www.youtube.com/watch?v=dsZCa4FQmkw) that Your Idol was largely inspired by her own experience as a KPop trainee. Despite trainees having not debuted, fans would wait outside their training building until late at night. Some interacted with the trainees positively, requesting autographs, while others verbally insulted and abused the trainees. She wrote Your Idol to reflect two harmful relationships: that of demons consuming the souls of their victims, and that of KPop groups building a parasocial dependency in their fans.
+Songwriter EJAE, also the singing voice of Rumi and composer of many of the movie's songs, [explained in an interview](https://www.youtube.com/watch?v=dsZCa4FQmkw) that Your Idol was largely inspired by her own experience as a KPop trainee. Despite trainees having not debuted as artists, fans would wait outside their training building until late at night. Some interacted with the trainees positively, requesting autographs, while others verbally insulted and abused the trainees. She wrote Your Idol to reflect two harmful relationships: that of demons consuming the souls of their victims, and that of KPop groups building a parasocial dependency in their fans.
 
 ## Using Context as an Audience Member
 
