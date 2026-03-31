@@ -39,7 +39,7 @@ Many of the underlying themes in the soundtrack require some familiarity with Ko
 
 For instance, take protagonist Rumi, the leader and center of HUNTR/X and her eventual love interest and sympathetic antagonist Jinu, leader and center of the Saja Boys.
 
-!!! note "KPop Terminology
+!!! note "KPop Terminology"
     The "leader" of a KPop group is in charge of supervising other members and communicating with management, as well as representing the group during public activities like award festivals.
     The "center" of a KPop group is the member who's most often highlighted in songs and promotional material. This position often changes with time, even when group members remain the same.
 
@@ -51,7 +51,7 @@ KPop has a massive amount of surrounding cultural context, and nowhere is this m
 
 KPop fans are famously devoted to their favourite groups and their bias, but this can lead to dependency and parasocial relationships, as well as hostility between fans or between fans and outsiders.
 
-!!! note "KPop Terminology
+!!! note "KPop Terminology"
     A fan's "bias" refers to their favourite member of a group, and some fans are strictly loyal only to that single member.
 
 Songwriter EJAE, also the singing voice of Rumi and composer of many of the movie's songs, [explained in an interview](https://www.youtube.com/watch?v=dsZCa4FQmkw) that Your Idol was largely inspired by her own experience as a KPop trainee. Despite trainees having not debuted, fans would wait outside their training building until late at night. Some interacted with the trainees positively, requesting autographs, while others verbally insulted and abused the trainees. She wrote Your Idol to reflect two harmful relationships: that of demons consuming the souls of their victims, and that of KPop groups building a parasocial dependency in their fans.
