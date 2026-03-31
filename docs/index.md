@@ -1,21 +1,9 @@
-# Welcome to this cool epic website we created
+# Soundtracks Build Story
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Soundtracks are always important for any piece of media, whether it be movies, television, stage productions, or even video games. When we use music to complement media, it can enhance and deepen meaning within them. We believe that this is especially poignant within story, and that soundtracks use unique and important techniques to add meaning to stories, building them and shaping them with auditory landscapes.
 
-## Commands
+In this User Guide we'll analyze a few cases where soundtracks have been particularly influential to a certain piece of media. By selecting one musical technique and tracing how a certain soundtrack uses it--and also how it's successful--we hope to show how these techniques are used in practice, and how other creators might be able to use them two. Listed below are our case studies and chosen topics.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
-## New Section
-
-    hello we are creating a new section
+- KPOP Demon Hunters: How Cultural References Deepen Thematic Messages
+- Deltarune: How Developing Themes and Leitmotifs Complements Actions and Consequences
+- Stardew Valley: How Music Affects Atmosphere
