@@ -10,7 +10,7 @@ by Alexander M.
 
 Is music a universal language? With the landmark success of Netflix's most-streamed movie ever, KPOP DEMON HUNTERS, it might certainly seem so.
 
-The movie's breakout song Golden, by starring girl group HUNTR/X, spent 8 weeks at No. 1 on the Billboard Top 100, then another 8 weeks at No. 2. HUNTR/X's demon boy band rivals, the Saja Boys, have had similar success; their song Your Idol outperformed BTS to reach No. 2 on Spotify in the US, a historic high for a KPop boy band. The soundtrack album was the second most streamed album worldwide on Spotify for 2025, behind only Bad Bunny's DeBÍ TiRAR MáS FOToS.
+The movie's breakout song Golden, by starring girl group HUNTR/X, spent 8 weeks at No. 1 on the Billboard Top 100, then another 8 weeks at No. 2. HUNTR/X's demon boy band rivals, the Saja Boys, have had similar success; their song Your Idol outperformed BTS to reach No. 2 on Spotify in the US, a historic high for a KPop boy band. The soundtrack album was the second most streamed album worldwide on Spotify for 2025.
 
 And yet, even as beloved as the music of the movie is, there's a lot of cultural context in it that casual audiences missed.
 
@@ -47,13 +47,15 @@ For instance, take protagonist Rumi, the leader and center of HUNTR/X and her ev
 
 ## Idol-Fan Relationships
 
-KPop has a massive amount surrounding cultural context, and nowhere is this more crucial to understanding the story than for the song Your Idol, by the Saja Boys. The lyrics are a clear double entendre, speaking about absorbing fans' love and energy; the Saja Boys are demons attempting to steal their fans' souls, and it might seem odd to some audience members that they're not attempting to hide that. But, for KPop fans, Your Idol doesn't appear to be about demons at all. Instead, it comes off as a poignant commentary on the idol industry and negative fan-idol relationships.
+KPop has a massive amount of surrounding cultural context, and nowhere is this more crucial to understanding the story than for the song Your Idol, by the Saja Boys. The lyrics are a clear double entendre, speaking about absorbing fans' love and energy; the Saja Boys are demons attempting to steal their fans' souls, and it might seem odd to some audience members that they're not attempting to hide that. But, for KPop fans, Your Idol doesn't appear to be about demons at all. Instead, it comes off as a poignant commentary on the idol industry and negative fan-idol relationships.
 
-Songwriter EJAE, also the singing voice of Rumi and composer of many of the movie's songs, explained in an interview that Your Idol was largely inspired by her own experience as a KPop trainee. Despite trainees having not debuted, fans would wait outside their training building until late at night. Some interacted with the trainees positively, requesting autographs, while others verbally insulted and abused the trainees for (REVIEW ANECDOTE). KPop fans are famously devoted to their favourite groups and their bias, but this can lead to dependency and parasocial relationships, as well as hostility between fans or between fans and outsiders.
+KPop fans are famously devoted to their favourite groups and their bias, but this can lead to dependency and parasocial relationships, as well as hostility between fans or between fans and outsiders.
 
 !!! note "KPop Terminology
     A fan's "bias" refers to their favourite member of a group, and some fans are strictly loyal only to that single member.
 
-## Korean Lyrics
+Songwriter EJAE, also the singing voice of Rumi and composer of many of the movie's songs, [explained in an interview](https://www.youtube.com/watch?v=dsZCa4FQmkw) that Your Idol was largely inspired by her own experience as a KPop trainee. Despite trainees having not debuted, fans would wait outside their training building until late at night. Some interacted with the trainees positively, requesting autographs, while others verbally insulted and abused the trainees. She wrote Your Idol to reflect two harmful relationships: that of demons consuming the souls of their victims, and that of KPop groups building a parasocial dependency in their fans.
 
-The most obvious 'hidden' information in the songs are the Korean lyrics. Korean lyrics/cultural meaning - having Korean lyrics in hook of Golden
+## Using Context as an Audience Member
+
+Now that you know the cultural context behind some of the music, think of how it changes your understanding of the characters next time you watch the movie. How do Rumi and HUNTR/X feel when fighting the Saja Boys after hearing Your Idol, a song about KPOP groups unashamedly taking advantage of fans? How do you think HUNTR/X cultivate a healthier relationship with their fans? There's a lot of new information to find, if you only listen for it!
