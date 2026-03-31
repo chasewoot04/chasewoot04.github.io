@@ -1,5 +1,7 @@
 # Stardew Valley
 
+Written by Mary 'Mira' Conner
+
 ![Stardew Valley Logo](https://stardewvalleywiki.com/mediawiki/images/6/68/Main_Logo.png)
 
 ## About the Music
