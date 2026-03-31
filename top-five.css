@@ -39,6 +39,7 @@ main {
 h1 {
   font-family: "Comic Sans MS", Georgia, serif;
   color: rgb(6, 171, 226); 
+  font-size: 24px
 }
 
 a {
@@ -55,6 +56,18 @@ footer {
 @media screen and (min-width: 576px) {
   body {
     width: 566px;
+  }
+
+  h1 {
+    font-size: 32px
+  }
+
+  .logo {
+    font-size: 24px;
+  }
+
+  a {
+    color: purple
   }
 }
 
