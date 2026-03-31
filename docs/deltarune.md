@@ -1,5 +1,7 @@
 # Deltarune
 
+Written by Chase Wootton
+
 ## Observing Leitmotifs and Developing Themes
 
 ![Deltarune Chapters 3&4 Logo](https://f4.bcbits.com/img/a3386961379_16.jpg)

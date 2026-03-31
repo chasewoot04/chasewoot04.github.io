@@ -1,8 +1,8 @@
 # KPOP DEMON HUNTERS Soundtrack
 
-## Cultural Context and References in Music
+Written by Alexander Matthews
 
-by Alexander M.
+## Cultural Context and References in Music
 
 ![KPOP DEMON HUNTERS](https://www.republicrecords.com/cdn/shop/files/REPU-00092_KPOP_DemonHunters_CollectionPage-Banner-02Mobile.png?v=1751556728&width=900)
 
