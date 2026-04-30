@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="playlist.xsl"?>
+<playlist>
+  <track>
+    <title>Agape (Bluecoats Performance)</title>
+    <artist>Nicholas Britell</artist>
+    <album>If Beale Street Could Talk</album>
+    <link>https://www.youtube.com/watch?v=yFjrBLLikAw</link>
+  </track>
+  <track>
+    <title>Cicada Days</title>
+    <artist>Will Wood</title>
+    <album>In Case I Die<album>
+    <link>https://www.youtube.com/watch?v=FAV5OajC96I</link>
+  </track>
+  <track>
+    <title>Ballade No. 1 in G Minor Op. 23</title>
+    <artist>Frederic Chopin</artist>
+    <album>N/A</album>
+    <link>https://www.youtube.com/watch?v=BSFNl4roGlI</link>
+  </track>
+  <track>
+    <title>Lonely Rolling Star</title>
+    <artist>Yoshihito Yano and Saki Kabata</artist>
+    <album>Katamari Damacy Soundtrack</album>
+    <link>https://www.youtube.com/watch?v=pI5-LvbE4AE</link>
+  </track>
+  <track>
+    <title>Trackless Sea</title>
+    <artist>Kings Kaleidoscope</artist>
+    <album>Beyond Control</album>
+    <link>https://www.youtube.com/watch?v=VzDFBIOiax4</link>
+  </track>
+</playlist>
