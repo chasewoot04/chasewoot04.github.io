@@ -1,62 +1,170 @@
 <!doctype html>
-<html lang="en" class="h-100 w-100"> 
+<html lang="en" class="h-100 w-100">
+
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Bootstrap demo</title>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
-    integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css"> 
-  <style></style>   
-</head> 
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+    <style></style>
+</head>
+
 <body style="background-color: rgb(0, 0, 20)">
-    <nav class="navbar navbar-expand-lg navbar-dark font-monospace" aria-label="navbar" style="background-color: rgb(1, 4, 48)">
-        <div class="container"> <a class="navbar-brand" href="index.html">A Saga of Starfall</a> <button class="navbar-toggler" type="button"
-            data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar"
-            aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+    <nav class="navbar navbar-expand-lg navbar-dark font-monospace" aria-label="navbar"
+        style="background-color: rgb(1, 4, 48)">
+        <div class="container"> <a class="navbar-brand" href="index.html">A Saga of Starfall</a> <button
+                class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation"> <span
+                    class="navbar-toggler-icon"></span> </button>
             <div class="collapse navbar-collapse" id="navbar">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                <li class="nav-item"> <a class="nav-link active" aria-current="page" href="index.html">Home</a> </li>
-                <li class="nav-item"> <a class="nav-link" href="contents.html">Contents</a> </li>
-                <li class="nav-item"> <a class="nav-link" href="maps.html">World Maps</a> </li>
-                <li class="nav-item"> <a class="nav-link" href="appendices.html">Appendices</a> </li>
-                <li class="nav-item"> <a class="nav-link" href="about.html">About</a> </li>
+                    <li class="nav-item"> <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item"> <a class="nav-link" href="contents.html">Contents</a> </li>
+                    <li class="nav-item"> <a class="nav-link" href="storymap.html">Storymap</a> </li>
+                    <li class="nav-item"> <a class="nav-link" href="maps.html">World Maps</a> </li>
+                    <li class="nav-item"> <a class="nav-link" href="about.html">About</a> </li>
                 </ul>
-                <form role="search"> <input class="form-control" type="search" placeholder="Search" aria-label="Search"> </form>
             </div>
         </div>
     </nav>
-    <main class="container min-vh-100 pt-5">
+    <main class="container pt-5 pb-3">
         <div class="row container text-white">
-            <div class="col-lg-2">
+            <div class="row col-lg-2 col-sm-12 align-items-end text-center">
             </div>
             <div class="container col-lg-8 col-sm-12 border">
+                <div class="row text-center">
+                    <div class="col-lg-4 col-sm-6 border text-white" style="background-color: rgb(1, 4, 48);">
+                        <a href="#"><i class="bi bi-arrow-left-circle" style="font-size: 50px"></i></a>
+                    </div>
+                    <div class="col-lg-4 d-none d-lg-block border" style="background-color: rgb(1, 4, 48);">
+                    </div>
+                    <div class="col-lg-4 col-sm-6 border text-white" style="background-color: rgb(1, 4, 48);">
+                        <a href="story/chapter-2.html"><i class="bi bi-arrow-right-circle" style="font-size: 50px"></i></a>
+                    </div>
+                </div>
                 <div id="chapter-heading" class="font-monospace text-center pt-5">
                     <h1>Chapter 1</h1>
                 </div>
                 <div id="epigraph" class="text-center" style="font-family: 'Garamond', 'Times New Roman', Times, serif">
                     <div class="col-2"></div>
                     <div>
-                        <p>“We live at the verge of Starfall, each human at the mercy of those burning, brilliant souls above—our silent, churning masters, whose whims decide the course of today, yesterday, and tomorrow."</p>
+                        <p>“We live at the verge of Starfall, each human at the mercy of those burning, brilliant souls
+                            above—our silent, churning masters, whose whims decide the course of today, yesterday, and
+                            tomorrow."</p>
                         <p>- The last words of Meiyand the Theologian; moments before her suicide</p>
                     </div>
                     <div class="col-2"></div>
                 </div>
-                <div id="body-text" style="font-family: 'Garamond', 'Times New Roman', Times, serif"> 
+                <div class="ps-4 pe-4" id="body-text" style="font-family: 'Garamond', 'Times New Roman', Times, serif">
                     <p>He had tried to dissect a sun; and the prison walls were what he had to show for it.</p>
+                    <p>Bader sulked in the corner of that rigid, grayscale room, its flat, practical walls like sheets
+                        of metal which sought to suffocate him. They were sleek, but hard, as characteristic of the
+                        prison as any other surface that lay in its caverns and corridors. Even the bench that he sat on
+                        was paradoxically smooth yet hard as stone, offering him no comfort in the dry, still air. Each
+                        plane was its own prison, each material a reflection of the pristine stiffness of the wardens
+                        and their attempts at confinement.</p>
+                    <p>But Bader was no warden, no bureaucrat, no politician who would admire the efficiency and
+                        cleanliness of the steel walls. Instead, he was condemned to live in them. All for seeking
+                        something that others were too scared to see.</p>
+                    <p>A fist thudded on the steel door, shocking him from his sulking. Pulling the slit at eye height
+                        open, a prison guard—Hadar, Bader thought he was called—shouted at him through the thick slab.
+                        “Visitor for you, Star<em>stealer</em>,” he said callously. “Best finish up your heresy in there
+                        before we open up.”</p>
+                    <p>Bader glared at the man through the slit, not responding to the insult but striving to convey
+                        with his eyes that he could tear the man apart in seconds were he to be completely free.
+                        <em>Starstealer</em>. What a shining <em>joke</em>. He'd hoped that the influence of the Zoros
+                        hadn't reached far enough from their idyllic moon to influence the wardens who administered this
+                        place, but, of course, he was mistaken for having any hope of the sort.
+                    </p>
+                    <p>“Heresy is merely a term the unenlightened use for things they don't yet understand,” Bader said,
+                        poorly veiling the malice in his voice. “I'd curb your accusations before I've actually had a
+                        <em>trial</em>, you buffoon.”
+                    </p>
+                    <p>“If there weren't cameras in this place, I'd be inclined to teach you a lesson, speaking like
+                        that to your betters.”</p>
+                    <p>“If there weren't cameras in here, I'd be saying much worse,” Bader said, standing and stretching
+                        as much as he could in the cramped space. “But alas, my words have the tendency to be used
+                        against me, good sir. Such is the behavior of the 'righteous' governments that persecute me.”
+                    </p>
+                    <p>Hadar snorted. “Justice <em>would</em> seem like persecution to someone like you, wouldn't it?”
+                    </p>
+                    <p>Bader held his gaze, waiting for the door to unlock.</p>
+                    <p>“Bah!” Hadar shouted. “It'll be over soon enough.” He pulled out a phone from his pocket and
+                        tapped it against the door, the electronic lock turning green before unlatching. “It won't
+                        disappoint me to see your body incinerated by the very sun you thought to desecrate.”</p>
+                    <p>The door opened inwards, and Bader stepped away to avoid the metal from pulverizing his face. As
+                        much as anyone else in his situation might desire death, Bader wanted to <em>live</em>, thank
+                        you very much. He moved in front of the guard when the door stopped and offered his wrists to
+                        the man, smiling subserviently.</p>
+                    <p>Impossibly, Hadar's scowl deepened even more as he locked cuffs onto Bader's fingers, tapping his
+                        phone against them to secure the smooth, black metal. “Sun's setting soon, Starstealer,” he
+                        said, “I want no funny business when the windows open, you hear me?”</p>
+                    <p>Bader held up his hands. “Can't do much with my hands <em>literally</em> tied, can I?”</p>
+                    <p>Hadar grabbed the bar between Bader's hands and yanked it towards the floor, painfully pulling
+                        his back muscles as the man's lanky arms ripped his short ones downward. He put his
+                        foul-smelling face to close to his and let out in a harsh whisper “I know <em>exactly</em> what
+                        you're capable, you piece of scum. I know why the windows close when the sun comes out. I know
+                        why we bind your hands in the first place. So, once again, I tell you: no funny business when
+                        the windows open.”</p>
+                    <p>Bader squinted at Hadar, wishing beyond anything that he could spit another snarky comment at
+                        him, but reading the large man’s face told him that he’d gone far enough. A man could only get
+                        into so many situations before he understood when and when not to provoke others. So Bader stood
+                        silent, letting the heat of the enclosed corridors wash over his muscles as Hadar slowly
+                        released the tension on his cuffs.</p>
+                    <p>“Let’s go,” was all the guard said, before they set off through the bowels of the fortress
+                        prison, the hum of the machines that kept the doors locked tight bouncing off the walls.</p>
+                    <p>The corridors were as plain as Bader’s cell, still paved in metallic grays, but there was a
+                        hexagonal shape to them that denied the harsh right angles of the prison. The walls bowed
+                        slightly out to a vertical plane, which bowed inward once again to meet the ceiling, blessedly
+                        allowing those not locked in cells to feel some sort of relief from the claustrophobia that one
+                        almost constantly felt when walking through the fortress.</p>
+                    <p>He’d been warned against it—harshly, in fact, but Bader turned his head to the walls, where the
+                        vertical plane at his eye height sported a row of locked windows. He followed Hadar closely,
+                        trying his best not to arouse suspicion. Just this once, he would be complacent, so long as he
+                        could glimpse the view once more. His fingertips tingled on his hands.</p>
+                    <p>An alarm blared from the prison’s speakers as, sure enough, the windows hissed, the metal panels
+                        which had sealed them shut sliding open to reveal the world outdoors.</p>
+                    <p>Bader gazed past the glass—into the molten landscape that lay outside of the prison walls.
+                        Massive continents of rock floated on that surface of magma, constantly drifting slowly,
+                        leisurely, across the seas of fire that supported them. Every once in a while, the chasms that
+                        separated the sheets of rock would spit up embers that died sputtering on the basalt, cooling as
+                        its red glow faded. Beyond those rocks, Bader caught a glimpse of that beautiful sight, before
+                        it faded below the horizon.</p>
+                    <p>Taemon had virtually no atmosphere, the molten planet which housed the fortress prison held
+                        together primarily by the force of gravity and the care of its visitors to remember not to walk
+                        out exposing themselves to the elements. So it was that when Bader looked upon the fading sun,
+                        there was no brilliant sunset, like his home planet now far away. There was only the bubbling
+                        wrath of the stars, whose last rays shone upon him.</p>
+                    <p>He stopped in the middle of the hallway, feeling the breath of the star on his face. For just an
+                        instant, as it faded from view, he basked in the sunlight, feeling a tug in his chest that
+                        pulled him towards the giant thousands of miles away. A chill ran down his spine—a shock of
+                        energy starting from his neck and traveling through his entire nervous system, flooding his
+                        head, fingers, and toes.</p>
+                    <p>It was ruined when Hadar yanked on his cuffs, starting him forward down the hallway and pulling
+                        him away from his indulgences. The scruffy guard bore his eyes into Bader’s, at once conveying
+                        both disgust and derision as he hastened down the hallway, boots echoing on the floor. Sighing,
+                        Bader followed, quickening his pace even as he felt the influence of the stars disappear from
+                        him, leaving him in growing, pitiful darkness.</p>
                 </div>
             </div>
-            <div class="col-lg-2">
+            <div class="row col-lg-2 col-sm-12 align-items-end text-center">
             </div>
         </div>
     </main>
     <footer class="text-white" style="background-color: rgb(1, 4, 48)">
-    <div class="container d-flex flex-wrap justify-content-between align-items-center py-3">
-      <div class="col-md-4 d-flex align-items-center"><span class="mb-3 mb-md-0 ps-1">© 2025 Company, Inc</span></div>
-      <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
-        <li class="ms-3"><a class="" href="#" aria-label="Instagram"><i class="bi bi-instagram"></i></a></li>
-        <li class="ms-3"><a class="" href="#" aria-label="Facebook"><i class="bi bi-facebook"></i></a></li>
-      </ul>
-    </div>
-</footer>
+        <div class="container d-flex flex-wrap justify-content-between align-items-center py-3">
+            <div class="col-md-4 d-flex align-items-center"><span class="mb-3 mb-md-0 ps-1">© 2026 Chase Wootton</span>
+            </div>
+            <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
+                <li class="ms-3"><a class="" href="https://www.instagram.com/chasewoott/" aria-label="Instagram"><i
+                            class="bi bi-instagram"></i></a></li>
+            </ul>
+        </div>
+    </footer>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+        crossorigin="anonymous"></script>
 </body>
